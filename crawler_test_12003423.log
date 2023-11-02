@@ -1,0 +1,5 @@
+/blue/djlemas/haswanthpopuri/Data_Processing
+c0709a-s3.ufhpc
+Fri Oct  6 12:58:30 EDT 2023
+Running plot script on a single CPU core
+slurmstepd: error: *** JOB 12003423 ON c0709a-s3 CANCELLED AT 2023-10-06T13:05:58 ***
